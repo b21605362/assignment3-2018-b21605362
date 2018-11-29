@@ -6,6 +6,7 @@ fileName = sys.argv[1]
 
 # Create data structures needed
 
+
 # Open input file for reading
 inText = open(fileName, 'r')
 
